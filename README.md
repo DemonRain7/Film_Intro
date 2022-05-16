@@ -1,2 +1,2 @@
-# Rain_FilmIntro.github.io
+# Rain.github.io
 A web for introducing films
